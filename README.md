@@ -39,3 +39,7 @@ Wireframing serves as a blueprint or skeletal framework of a website or applicat
 - **Guides the Design Process**: Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 
 ## Wireframing in Practice
+
+In a redesign of a healthcare appointment booking system, wireframing helped identifying the following issues: confusing navigation flow, lack of error feedback, and poor mobile compatibility. Our team restructured the booking steps, added clear error messaging, and optimized layouts for mobile devices. These changes, made before development, significantly reduced rework, and improved user satisfaction. 
+
+Wireframing plays a critical role in identifying and resolving usability issues early in the design process. By allowing stakeholders to visualize and interact with the product’s structure before development, wireframing ensures a user-centered design.
